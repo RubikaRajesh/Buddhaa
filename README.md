@@ -1,3 +1,2 @@
-# buddha
-Simple page using HTML, SCSS and Java Script
-with some quotes and animations
+![image](https://github.com/user-attachments/assets/379ab120-1c8d-497f-bedc-27ce6cfb967b)
+
